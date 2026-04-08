@@ -1,6 +1,6 @@
 cask "claude-code-stats" do
-  version "0.6.0"
-  sha256 "1de9ccb798804bb1b6bfd3045529a1f64de00d5ea8b5b41fae18cf7d9be93596"
+  version "0.6.1"
+  sha256 "62bf18a906bd8d4f70a0cfe699aafe485e63cf20c618b3590e21c664428427ab"
 
   url "https://github.com/dmelo/claude-code-stats/releases/download/v#{version}/ClaudeCodeStats-v#{version}.zip"
   name "Claude Code Stats"
